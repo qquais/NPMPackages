@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-npm-qurratul",
+  "version": "1.0.0",
+  "description": "A simple hello world npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qquais/NPMPackages.git"
+  },
+  "keywords": [
+    "hello",
+    "world",
+    "npm"
+  ],
+  "author": "Qurratul Ain Quais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qquais/NPMPackages/issues"
+  },
+  "homepage": "https://github.com/qquais/NPMPackages#readme"
+}
